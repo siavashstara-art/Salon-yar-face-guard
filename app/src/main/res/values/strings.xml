@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Banoot Bridal &amp; Fashion</string>
+    <string name="tagline">مزون هوشمند و اتاق پرو مجازی لباس عروس و فشن</string>
+    <string name="bridal_try_on">پرو لباس عروس</string>
+    <string name="lingerie_corset">کالکشن کرست و لانژری</string>
+    <string name="evening_dresses">لباس عقد و نامزدی</string>
+    <string name="ai_stylist">مشاور استایل عروس</string>
+    <string name="my_looks">پروهای ذخیره شده</string>
+</resources>

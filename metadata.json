@@ -1,0 +1,6 @@
+{
+  "name": "Banoot Bridal & Fashion",
+  "description": "Virtual Try-On and AI Bridal Gown & Couture Fitting Room for Banoot",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
